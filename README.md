@@ -10,10 +10,9 @@ $ npm start
 
 2. 进入浏览器，打开 **http://localhost:7001/public/index.html**
 
-3. 按 F5 刷新网页(1+)
+3. 按 F5 刷新网页( 1+ )
 
-4. 查看程序控制台信息
-其中会包含以下错误信息
+4. 查看 server 控制台,其中会包含以下错误信息
 ```bash
 TypeError: Cannot set property 'args' of undefined (uncaughtException throw 1 times on pid:57576)
     at Socket.socket.on.args (D:\git\egg-socket.io-error-showcase\node_modules\._egg-socket.io@3.0.0@egg-socket.io\lib\io.js:68:37)
