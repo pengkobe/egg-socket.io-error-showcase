@@ -4,6 +4,8 @@
 ## 重现步骤
 1. 安装依赖并运行
 ```bash
+$ git clone https://github.com/pengkobe/egg-socket.io-error-showcase.git
+$ cd egg-socket.io-error-showcase
 $ cnpm i
 $ npm start
 ```
